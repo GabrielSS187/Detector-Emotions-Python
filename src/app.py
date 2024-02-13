@@ -1,6 +1,6 @@
 import cv2
 
-from src.functions.detect_emotion import detect_emotion
+from functions.detect_emotion import detect_emotion
 
 
 # Carregar o classificador de cascata de rosto pré-treinado
